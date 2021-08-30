@@ -2000,6 +2000,2006 @@ def EvenOdd(x):
  		 return 'Even'
 	elif x == 999: 
  		 return 'Odd'
+	elif x == 1000: 
+ 		 return 'Even'
+	elif x == 1001: 
+ 		 return 'Odd'
+	elif x == 1002: 
+ 		 return 'Even'
+	elif x == 1003: 
+ 		 return 'Odd'
+	elif x == 1004: 
+ 		 return 'Even'
+	elif x == 1005: 
+ 		 return 'Odd'
+	elif x == 1006: 
+ 		 return 'Even'
+	elif x == 1007: 
+ 		 return 'Odd'
+	elif x == 1008: 
+ 		 return 'Even'
+	elif x == 1009: 
+ 		 return 'Odd'
+	elif x == 1010: 
+ 		 return 'Even'
+	elif x == 1011: 
+ 		 return 'Odd'
+	elif x == 1012: 
+ 		 return 'Even'
+	elif x == 1013: 
+ 		 return 'Odd'
+	elif x == 1014: 
+ 		 return 'Even'
+	elif x == 1015: 
+ 		 return 'Odd'
+	elif x == 1016: 
+ 		 return 'Even'
+	elif x == 1017: 
+ 		 return 'Odd'
+	elif x == 1018: 
+ 		 return 'Even'
+	elif x == 1019: 
+ 		 return 'Odd'
+	elif x == 1020: 
+ 		 return 'Even'
+	elif x == 1021: 
+ 		 return 'Odd'
+	elif x == 1022: 
+ 		 return 'Even'
+	elif x == 1023: 
+ 		 return 'Odd'
+	elif x == 1024: 
+ 		 return 'Even'
+	elif x == 1025: 
+ 		 return 'Odd'
+	elif x == 1026: 
+ 		 return 'Even'
+	elif x == 1027: 
+ 		 return 'Odd'
+	elif x == 1028: 
+ 		 return 'Even'
+	elif x == 1029: 
+ 		 return 'Odd'
+	elif x == 1030: 
+ 		 return 'Even'
+	elif x == 1031: 
+ 		 return 'Odd'
+	elif x == 1032: 
+ 		 return 'Even'
+	elif x == 1033: 
+ 		 return 'Odd'
+	elif x == 1034: 
+ 		 return 'Even'
+	elif x == 1035: 
+ 		 return 'Odd'
+	elif x == 1036: 
+ 		 return 'Even'
+	elif x == 1037: 
+ 		 return 'Odd'
+	elif x == 1038: 
+ 		 return 'Even'
+	elif x == 1039: 
+ 		 return 'Odd'
+	elif x == 1040: 
+ 		 return 'Even'
+	elif x == 1041: 
+ 		 return 'Odd'
+	elif x == 1042: 
+ 		 return 'Even'
+	elif x == 1043: 
+ 		 return 'Odd'
+	elif x == 1044: 
+ 		 return 'Even'
+	elif x == 1045: 
+ 		 return 'Odd'
+	elif x == 1046: 
+ 		 return 'Even'
+	elif x == 1047: 
+ 		 return 'Odd'
+	elif x == 1048: 
+ 		 return 'Even'
+	elif x == 1049: 
+ 		 return 'Odd'
+	elif x == 1050: 
+ 		 return 'Even'
+	elif x == 1051: 
+ 		 return 'Odd'
+	elif x == 1052: 
+ 		 return 'Even'
+	elif x == 1053: 
+ 		 return 'Odd'
+	elif x == 1054: 
+ 		 return 'Even'
+	elif x == 1055: 
+ 		 return 'Odd'
+	elif x == 1056: 
+ 		 return 'Even'
+	elif x == 1057: 
+ 		 return 'Odd'
+	elif x == 1058: 
+ 		 return 'Even'
+	elif x == 1059: 
+ 		 return 'Odd'
+	elif x == 1060: 
+ 		 return 'Even'
+	elif x == 1061: 
+ 		 return 'Odd'
+	elif x == 1062: 
+ 		 return 'Even'
+	elif x == 1063: 
+ 		 return 'Odd'
+	elif x == 1064: 
+ 		 return 'Even'
+	elif x == 1065: 
+ 		 return 'Odd'
+	elif x == 1066: 
+ 		 return 'Even'
+	elif x == 1067: 
+ 		 return 'Odd'
+	elif x == 1068: 
+ 		 return 'Even'
+	elif x == 1069: 
+ 		 return 'Odd'
+	elif x == 1070: 
+ 		 return 'Even'
+	elif x == 1071: 
+ 		 return 'Odd'
+	elif x == 1072: 
+ 		 return 'Even'
+	elif x == 1073: 
+ 		 return 'Odd'
+	elif x == 1074: 
+ 		 return 'Even'
+	elif x == 1075: 
+ 		 return 'Odd'
+	elif x == 1076: 
+ 		 return 'Even'
+	elif x == 1077: 
+ 		 return 'Odd'
+	elif x == 1078: 
+ 		 return 'Even'
+	elif x == 1079: 
+ 		 return 'Odd'
+	elif x == 1080: 
+ 		 return 'Even'
+	elif x == 1081: 
+ 		 return 'Odd'
+	elif x == 1082: 
+ 		 return 'Even'
+	elif x == 1083: 
+ 		 return 'Odd'
+	elif x == 1084: 
+ 		 return 'Even'
+	elif x == 1085: 
+ 		 return 'Odd'
+	elif x == 1086: 
+ 		 return 'Even'
+	elif x == 1087: 
+ 		 return 'Odd'
+	elif x == 1088: 
+ 		 return 'Even'
+	elif x == 1089: 
+ 		 return 'Odd'
+	elif x == 1090: 
+ 		 return 'Even'
+	elif x == 1091: 
+ 		 return 'Odd'
+	elif x == 1092: 
+ 		 return 'Even'
+	elif x == 1093: 
+ 		 return 'Odd'
+	elif x == 1094: 
+ 		 return 'Even'
+	elif x == 1095: 
+ 		 return 'Odd'
+	elif x == 1096: 
+ 		 return 'Even'
+	elif x == 1097: 
+ 		 return 'Odd'
+	elif x == 1098: 
+ 		 return 'Even'
+	elif x == 1099: 
+ 		 return 'Odd'
+	elif x == 1100: 
+ 		 return 'Even'
+	elif x == 1101: 
+ 		 return 'Odd'
+	elif x == 1102: 
+ 		 return 'Even'
+	elif x == 1103: 
+ 		 return 'Odd'
+	elif x == 1104: 
+ 		 return 'Even'
+	elif x == 1105: 
+ 		 return 'Odd'
+	elif x == 1106: 
+ 		 return 'Even'
+	elif x == 1107: 
+ 		 return 'Odd'
+	elif x == 1108: 
+ 		 return 'Even'
+	elif x == 1109: 
+ 		 return 'Odd'
+	elif x == 1110: 
+ 		 return 'Even'
+	elif x == 1111: 
+ 		 return 'Odd'
+	elif x == 1112: 
+ 		 return 'Even'
+	elif x == 1113: 
+ 		 return 'Odd'
+	elif x == 1114: 
+ 		 return 'Even'
+	elif x == 1115: 
+ 		 return 'Odd'
+	elif x == 1116: 
+ 		 return 'Even'
+	elif x == 1117: 
+ 		 return 'Odd'
+	elif x == 1118: 
+ 		 return 'Even'
+	elif x == 1119: 
+ 		 return 'Odd'
+	elif x == 1120: 
+ 		 return 'Even'
+	elif x == 1121: 
+ 		 return 'Odd'
+	elif x == 1122: 
+ 		 return 'Even'
+	elif x == 1123: 
+ 		 return 'Odd'
+	elif x == 1124: 
+ 		 return 'Even'
+	elif x == 1125: 
+ 		 return 'Odd'
+	elif x == 1126: 
+ 		 return 'Even'
+	elif x == 1127: 
+ 		 return 'Odd'
+	elif x == 1128: 
+ 		 return 'Even'
+	elif x == 1129: 
+ 		 return 'Odd'
+	elif x == 1130: 
+ 		 return 'Even'
+	elif x == 1131: 
+ 		 return 'Odd'
+	elif x == 1132: 
+ 		 return 'Even'
+	elif x == 1133: 
+ 		 return 'Odd'
+	elif x == 1134: 
+ 		 return 'Even'
+	elif x == 1135: 
+ 		 return 'Odd'
+	elif x == 1136: 
+ 		 return 'Even'
+	elif x == 1137: 
+ 		 return 'Odd'
+	elif x == 1138: 
+ 		 return 'Even'
+	elif x == 1139: 
+ 		 return 'Odd'
+	elif x == 1140: 
+ 		 return 'Even'
+	elif x == 1141: 
+ 		 return 'Odd'
+	elif x == 1142: 
+ 		 return 'Even'
+	elif x == 1143: 
+ 		 return 'Odd'
+	elif x == 1144: 
+ 		 return 'Even'
+	elif x == 1145: 
+ 		 return 'Odd'
+	elif x == 1146: 
+ 		 return 'Even'
+	elif x == 1147: 
+ 		 return 'Odd'
+	elif x == 1148: 
+ 		 return 'Even'
+	elif x == 1149: 
+ 		 return 'Odd'
+	elif x == 1150: 
+ 		 return 'Even'
+	elif x == 1151: 
+ 		 return 'Odd'
+	elif x == 1152: 
+ 		 return 'Even'
+	elif x == 1153: 
+ 		 return 'Odd'
+	elif x == 1154: 
+ 		 return 'Even'
+	elif x == 1155: 
+ 		 return 'Odd'
+	elif x == 1156: 
+ 		 return 'Even'
+	elif x == 1157: 
+ 		 return 'Odd'
+	elif x == 1158: 
+ 		 return 'Even'
+	elif x == 1159: 
+ 		 return 'Odd'
+	elif x == 1160: 
+ 		 return 'Even'
+	elif x == 1161: 
+ 		 return 'Odd'
+	elif x == 1162: 
+ 		 return 'Even'
+	elif x == 1163: 
+ 		 return 'Odd'
+	elif x == 1164: 
+ 		 return 'Even'
+	elif x == 1165: 
+ 		 return 'Odd'
+	elif x == 1166: 
+ 		 return 'Even'
+	elif x == 1167: 
+ 		 return 'Odd'
+	elif x == 1168: 
+ 		 return 'Even'
+	elif x == 1169: 
+ 		 return 'Odd'
+	elif x == 1170: 
+ 		 return 'Even'
+	elif x == 1171: 
+ 		 return 'Odd'
+	elif x == 1172: 
+ 		 return 'Even'
+	elif x == 1173: 
+ 		 return 'Odd'
+	elif x == 1174: 
+ 		 return 'Even'
+	elif x == 1175: 
+ 		 return 'Odd'
+	elif x == 1176: 
+ 		 return 'Even'
+	elif x == 1177: 
+ 		 return 'Odd'
+	elif x == 1178: 
+ 		 return 'Even'
+	elif x == 1179: 
+ 		 return 'Odd'
+	elif x == 1180: 
+ 		 return 'Even'
+	elif x == 1181: 
+ 		 return 'Odd'
+	elif x == 1182: 
+ 		 return 'Even'
+	elif x == 1183: 
+ 		 return 'Odd'
+	elif x == 1184: 
+ 		 return 'Even'
+	elif x == 1185: 
+ 		 return 'Odd'
+	elif x == 1186: 
+ 		 return 'Even'
+	elif x == 1187: 
+ 		 return 'Odd'
+	elif x == 1188: 
+ 		 return 'Even'
+	elif x == 1189: 
+ 		 return 'Odd'
+	elif x == 1190: 
+ 		 return 'Even'
+	elif x == 1191: 
+ 		 return 'Odd'
+	elif x == 1192: 
+ 		 return 'Even'
+	elif x == 1193: 
+ 		 return 'Odd'
+	elif x == 1194: 
+ 		 return 'Even'
+	elif x == 1195: 
+ 		 return 'Odd'
+	elif x == 1196: 
+ 		 return 'Even'
+	elif x == 1197: 
+ 		 return 'Odd'
+	elif x == 1198: 
+ 		 return 'Even'
+	elif x == 1199: 
+ 		 return 'Odd'
+	elif x == 1200: 
+ 		 return 'Even'
+	elif x == 1201: 
+ 		 return 'Odd'
+	elif x == 1202: 
+ 		 return 'Even'
+	elif x == 1203: 
+ 		 return 'Odd'
+	elif x == 1204: 
+ 		 return 'Even'
+	elif x == 1205: 
+ 		 return 'Odd'
+	elif x == 1206: 
+ 		 return 'Even'
+	elif x == 1207: 
+ 		 return 'Odd'
+	elif x == 1208: 
+ 		 return 'Even'
+	elif x == 1209: 
+ 		 return 'Odd'
+	elif x == 1210: 
+ 		 return 'Even'
+	elif x == 1211: 
+ 		 return 'Odd'
+	elif x == 1212: 
+ 		 return 'Even'
+	elif x == 1213: 
+ 		 return 'Odd'
+	elif x == 1214: 
+ 		 return 'Even'
+	elif x == 1215: 
+ 		 return 'Odd'
+	elif x == 1216: 
+ 		 return 'Even'
+	elif x == 1217: 
+ 		 return 'Odd'
+	elif x == 1218: 
+ 		 return 'Even'
+	elif x == 1219: 
+ 		 return 'Odd'
+	elif x == 1220: 
+ 		 return 'Even'
+	elif x == 1221: 
+ 		 return 'Odd'
+	elif x == 1222: 
+ 		 return 'Even'
+	elif x == 1223: 
+ 		 return 'Odd'
+	elif x == 1224: 
+ 		 return 'Even'
+	elif x == 1225: 
+ 		 return 'Odd'
+	elif x == 1226: 
+ 		 return 'Even'
+	elif x == 1227: 
+ 		 return 'Odd'
+	elif x == 1228: 
+ 		 return 'Even'
+	elif x == 1229: 
+ 		 return 'Odd'
+	elif x == 1230: 
+ 		 return 'Even'
+	elif x == 1231: 
+ 		 return 'Odd'
+	elif x == 1232: 
+ 		 return 'Even'
+	elif x == 1233: 
+ 		 return 'Odd'
+	elif x == 1234: 
+ 		 return 'Even'
+	elif x == 1235: 
+ 		 return 'Odd'
+	elif x == 1236: 
+ 		 return 'Even'
+	elif x == 1237: 
+ 		 return 'Odd'
+	elif x == 1238: 
+ 		 return 'Even'
+	elif x == 1239: 
+ 		 return 'Odd'
+	elif x == 1240: 
+ 		 return 'Even'
+	elif x == 1241: 
+ 		 return 'Odd'
+	elif x == 1242: 
+ 		 return 'Even'
+	elif x == 1243: 
+ 		 return 'Odd'
+	elif x == 1244: 
+ 		 return 'Even'
+	elif x == 1245: 
+ 		 return 'Odd'
+	elif x == 1246: 
+ 		 return 'Even'
+	elif x == 1247: 
+ 		 return 'Odd'
+	elif x == 1248: 
+ 		 return 'Even'
+	elif x == 1249: 
+ 		 return 'Odd'
+	elif x == 1250: 
+ 		 return 'Even'
+	elif x == 1251: 
+ 		 return 'Odd'
+	elif x == 1252: 
+ 		 return 'Even'
+	elif x == 1253: 
+ 		 return 'Odd'
+	elif x == 1254: 
+ 		 return 'Even'
+	elif x == 1255: 
+ 		 return 'Odd'
+	elif x == 1256: 
+ 		 return 'Even'
+	elif x == 1257: 
+ 		 return 'Odd'
+	elif x == 1258: 
+ 		 return 'Even'
+	elif x == 1259: 
+ 		 return 'Odd'
+	elif x == 1260: 
+ 		 return 'Even'
+	elif x == 1261: 
+ 		 return 'Odd'
+	elif x == 1262: 
+ 		 return 'Even'
+	elif x == 1263: 
+ 		 return 'Odd'
+	elif x == 1264: 
+ 		 return 'Even'
+	elif x == 1265: 
+ 		 return 'Odd'
+	elif x == 1266: 
+ 		 return 'Even'
+	elif x == 1267: 
+ 		 return 'Odd'
+	elif x == 1268: 
+ 		 return 'Even'
+	elif x == 1269: 
+ 		 return 'Odd'
+	elif x == 1270: 
+ 		 return 'Even'
+	elif x == 1271: 
+ 		 return 'Odd'
+	elif x == 1272: 
+ 		 return 'Even'
+	elif x == 1273: 
+ 		 return 'Odd'
+	elif x == 1274: 
+ 		 return 'Even'
+	elif x == 1275: 
+ 		 return 'Odd'
+	elif x == 1276: 
+ 		 return 'Even'
+	elif x == 1277: 
+ 		 return 'Odd'
+	elif x == 1278: 
+ 		 return 'Even'
+	elif x == 1279: 
+ 		 return 'Odd'
+	elif x == 1280: 
+ 		 return 'Even'
+	elif x == 1281: 
+ 		 return 'Odd'
+	elif x == 1282: 
+ 		 return 'Even'
+	elif x == 1283: 
+ 		 return 'Odd'
+	elif x == 1284: 
+ 		 return 'Even'
+	elif x == 1285: 
+ 		 return 'Odd'
+	elif x == 1286: 
+ 		 return 'Even'
+	elif x == 1287: 
+ 		 return 'Odd'
+	elif x == 1288: 
+ 		 return 'Even'
+	elif x == 1289: 
+ 		 return 'Odd'
+	elif x == 1290: 
+ 		 return 'Even'
+	elif x == 1291: 
+ 		 return 'Odd'
+	elif x == 1292: 
+ 		 return 'Even'
+	elif x == 1293: 
+ 		 return 'Odd'
+	elif x == 1294: 
+ 		 return 'Even'
+	elif x == 1295: 
+ 		 return 'Odd'
+	elif x == 1296: 
+ 		 return 'Even'
+	elif x == 1297: 
+ 		 return 'Odd'
+	elif x == 1298: 
+ 		 return 'Even'
+	elif x == 1299: 
+ 		 return 'Odd'
+	elif x == 1300: 
+ 		 return 'Even'
+	elif x == 1301: 
+ 		 return 'Odd'
+	elif x == 1302: 
+ 		 return 'Even'
+	elif x == 1303: 
+ 		 return 'Odd'
+	elif x == 1304: 
+ 		 return 'Even'
+	elif x == 1305: 
+ 		 return 'Odd'
+	elif x == 1306: 
+ 		 return 'Even'
+	elif x == 1307: 
+ 		 return 'Odd'
+	elif x == 1308: 
+ 		 return 'Even'
+	elif x == 1309: 
+ 		 return 'Odd'
+	elif x == 1310: 
+ 		 return 'Even'
+	elif x == 1311: 
+ 		 return 'Odd'
+	elif x == 1312: 
+ 		 return 'Even'
+	elif x == 1313: 
+ 		 return 'Odd'
+	elif x == 1314: 
+ 		 return 'Even'
+	elif x == 1315: 
+ 		 return 'Odd'
+	elif x == 1316: 
+ 		 return 'Even'
+	elif x == 1317: 
+ 		 return 'Odd'
+	elif x == 1318: 
+ 		 return 'Even'
+	elif x == 1319: 
+ 		 return 'Odd'
+	elif x == 1320: 
+ 		 return 'Even'
+	elif x == 1321: 
+ 		 return 'Odd'
+	elif x == 1322: 
+ 		 return 'Even'
+	elif x == 1323: 
+ 		 return 'Odd'
+	elif x == 1324: 
+ 		 return 'Even'
+	elif x == 1325: 
+ 		 return 'Odd'
+	elif x == 1326: 
+ 		 return 'Even'
+	elif x == 1327: 
+ 		 return 'Odd'
+	elif x == 1328: 
+ 		 return 'Even'
+	elif x == 1329: 
+ 		 return 'Odd'
+	elif x == 1330: 
+ 		 return 'Even'
+	elif x == 1331: 
+ 		 return 'Odd'
+	elif x == 1332: 
+ 		 return 'Even'
+	elif x == 1333: 
+ 		 return 'Odd'
+	elif x == 1334: 
+ 		 return 'Even'
+	elif x == 1335: 
+ 		 return 'Odd'
+	elif x == 1336: 
+ 		 return 'Even'
+	elif x == 1337: 
+ 		 return 'Odd'
+	elif x == 1338: 
+ 		 return 'Even'
+	elif x == 1339: 
+ 		 return 'Odd'
+	elif x == 1340: 
+ 		 return 'Even'
+	elif x == 1341: 
+ 		 return 'Odd'
+	elif x == 1342: 
+ 		 return 'Even'
+	elif x == 1343: 
+ 		 return 'Odd'
+	elif x == 1344: 
+ 		 return 'Even'
+	elif x == 1345: 
+ 		 return 'Odd'
+	elif x == 1346: 
+ 		 return 'Even'
+	elif x == 1347: 
+ 		 return 'Odd'
+	elif x == 1348: 
+ 		 return 'Even'
+	elif x == 1349: 
+ 		 return 'Odd'
+	elif x == 1350: 
+ 		 return 'Even'
+	elif x == 1351: 
+ 		 return 'Odd'
+	elif x == 1352: 
+ 		 return 'Even'
+	elif x == 1353: 
+ 		 return 'Odd'
+	elif x == 1354: 
+ 		 return 'Even'
+	elif x == 1355: 
+ 		 return 'Odd'
+	elif x == 1356: 
+ 		 return 'Even'
+	elif x == 1357: 
+ 		 return 'Odd'
+	elif x == 1358: 
+ 		 return 'Even'
+	elif x == 1359: 
+ 		 return 'Odd'
+	elif x == 1360: 
+ 		 return 'Even'
+	elif x == 1361: 
+ 		 return 'Odd'
+	elif x == 1362: 
+ 		 return 'Even'
+	elif x == 1363: 
+ 		 return 'Odd'
+	elif x == 1364: 
+ 		 return 'Even'
+	elif x == 1365: 
+ 		 return 'Odd'
+	elif x == 1366: 
+ 		 return 'Even'
+	elif x == 1367: 
+ 		 return 'Odd'
+	elif x == 1368: 
+ 		 return 'Even'
+	elif x == 1369: 
+ 		 return 'Odd'
+	elif x == 1370: 
+ 		 return 'Even'
+	elif x == 1371: 
+ 		 return 'Odd'
+	elif x == 1372: 
+ 		 return 'Even'
+	elif x == 1373: 
+ 		 return 'Odd'
+	elif x == 1374: 
+ 		 return 'Even'
+	elif x == 1375: 
+ 		 return 'Odd'
+	elif x == 1376: 
+ 		 return 'Even'
+	elif x == 1377: 
+ 		 return 'Odd'
+	elif x == 1378: 
+ 		 return 'Even'
+	elif x == 1379: 
+ 		 return 'Odd'
+	elif x == 1380: 
+ 		 return 'Even'
+	elif x == 1381: 
+ 		 return 'Odd'
+	elif x == 1382: 
+ 		 return 'Even'
+	elif x == 1383: 
+ 		 return 'Odd'
+	elif x == 1384: 
+ 		 return 'Even'
+	elif x == 1385: 
+ 		 return 'Odd'
+	elif x == 1386: 
+ 		 return 'Even'
+	elif x == 1387: 
+ 		 return 'Odd'
+	elif x == 1388: 
+ 		 return 'Even'
+	elif x == 1389: 
+ 		 return 'Odd'
+	elif x == 1390: 
+ 		 return 'Even'
+	elif x == 1391: 
+ 		 return 'Odd'
+	elif x == 1392: 
+ 		 return 'Even'
+	elif x == 1393: 
+ 		 return 'Odd'
+	elif x == 1394: 
+ 		 return 'Even'
+	elif x == 1395: 
+ 		 return 'Odd'
+	elif x == 1396: 
+ 		 return 'Even'
+	elif x == 1397: 
+ 		 return 'Odd'
+	elif x == 1398: 
+ 		 return 'Even'
+	elif x == 1399: 
+ 		 return 'Odd'
+	elif x == 1400: 
+ 		 return 'Even'
+	elif x == 1401: 
+ 		 return 'Odd'
+	elif x == 1402: 
+ 		 return 'Even'
+	elif x == 1403: 
+ 		 return 'Odd'
+	elif x == 1404: 
+ 		 return 'Even'
+	elif x == 1405: 
+ 		 return 'Odd'
+	elif x == 1406: 
+ 		 return 'Even'
+	elif x == 1407: 
+ 		 return 'Odd'
+	elif x == 1408: 
+ 		 return 'Even'
+	elif x == 1409: 
+ 		 return 'Odd'
+	elif x == 1410: 
+ 		 return 'Even'
+	elif x == 1411: 
+ 		 return 'Odd'
+	elif x == 1412: 
+ 		 return 'Even'
+	elif x == 1413: 
+ 		 return 'Odd'
+	elif x == 1414: 
+ 		 return 'Even'
+	elif x == 1415: 
+ 		 return 'Odd'
+	elif x == 1416: 
+ 		 return 'Even'
+	elif x == 1417: 
+ 		 return 'Odd'
+	elif x == 1418: 
+ 		 return 'Even'
+	elif x == 1419: 
+ 		 return 'Odd'
+	elif x == 1420: 
+ 		 return 'Even'
+	elif x == 1421: 
+ 		 return 'Odd'
+	elif x == 1422: 
+ 		 return 'Even'
+	elif x == 1423: 
+ 		 return 'Odd'
+	elif x == 1424: 
+ 		 return 'Even'
+	elif x == 1425: 
+ 		 return 'Odd'
+	elif x == 1426: 
+ 		 return 'Even'
+	elif x == 1427: 
+ 		 return 'Odd'
+	elif x == 1428: 
+ 		 return 'Even'
+	elif x == 1429: 
+ 		 return 'Odd'
+	elif x == 1430: 
+ 		 return 'Even'
+	elif x == 1431: 
+ 		 return 'Odd'
+	elif x == 1432: 
+ 		 return 'Even'
+	elif x == 1433: 
+ 		 return 'Odd'
+	elif x == 1434: 
+ 		 return 'Even'
+	elif x == 1435: 
+ 		 return 'Odd'
+	elif x == 1436: 
+ 		 return 'Even'
+	elif x == 1437: 
+ 		 return 'Odd'
+	elif x == 1438: 
+ 		 return 'Even'
+	elif x == 1439: 
+ 		 return 'Odd'
+	elif x == 1440: 
+ 		 return 'Even'
+	elif x == 1441: 
+ 		 return 'Odd'
+	elif x == 1442: 
+ 		 return 'Even'
+	elif x == 1443: 
+ 		 return 'Odd'
+	elif x == 1444: 
+ 		 return 'Even'
+	elif x == 1445: 
+ 		 return 'Odd'
+	elif x == 1446: 
+ 		 return 'Even'
+	elif x == 1447: 
+ 		 return 'Odd'
+	elif x == 1448: 
+ 		 return 'Even'
+	elif x == 1449: 
+ 		 return 'Odd'
+	elif x == 1450: 
+ 		 return 'Even'
+	elif x == 1451: 
+ 		 return 'Odd'
+	elif x == 1452: 
+ 		 return 'Even'
+	elif x == 1453: 
+ 		 return 'Odd'
+	elif x == 1454: 
+ 		 return 'Even'
+	elif x == 1455: 
+ 		 return 'Odd'
+	elif x == 1456: 
+ 		 return 'Even'
+	elif x == 1457: 
+ 		 return 'Odd'
+	elif x == 1458: 
+ 		 return 'Even'
+	elif x == 1459: 
+ 		 return 'Odd'
+	elif x == 1460: 
+ 		 return 'Even'
+	elif x == 1461: 
+ 		 return 'Odd'
+	elif x == 1462: 
+ 		 return 'Even'
+	elif x == 1463: 
+ 		 return 'Odd'
+	elif x == 1464: 
+ 		 return 'Even'
+	elif x == 1465: 
+ 		 return 'Odd'
+	elif x == 1466: 
+ 		 return 'Even'
+	elif x == 1467: 
+ 		 return 'Odd'
+	elif x == 1468: 
+ 		 return 'Even'
+	elif x == 1469: 
+ 		 return 'Odd'
+	elif x == 1470: 
+ 		 return 'Even'
+	elif x == 1471: 
+ 		 return 'Odd'
+	elif x == 1472: 
+ 		 return 'Even'
+	elif x == 1473: 
+ 		 return 'Odd'
+	elif x == 1474: 
+ 		 return 'Even'
+	elif x == 1475: 
+ 		 return 'Odd'
+	elif x == 1476: 
+ 		 return 'Even'
+	elif x == 1477: 
+ 		 return 'Odd'
+	elif x == 1478: 
+ 		 return 'Even'
+	elif x == 1479: 
+ 		 return 'Odd'
+	elif x == 1480: 
+ 		 return 'Even'
+	elif x == 1481: 
+ 		 return 'Odd'
+	elif x == 1482: 
+ 		 return 'Even'
+	elif x == 1483: 
+ 		 return 'Odd'
+	elif x == 1484: 
+ 		 return 'Even'
+	elif x == 1485: 
+ 		 return 'Odd'
+	elif x == 1486: 
+ 		 return 'Even'
+	elif x == 1487: 
+ 		 return 'Odd'
+	elif x == 1488: 
+ 		 return 'Even'
+	elif x == 1489: 
+ 		 return 'Odd'
+	elif x == 1490: 
+ 		 return 'Even'
+	elif x == 1491: 
+ 		 return 'Odd'
+	elif x == 1492: 
+ 		 return 'Even'
+	elif x == 1493: 
+ 		 return 'Odd'
+	elif x == 1494: 
+ 		 return 'Even'
+	elif x == 1495: 
+ 		 return 'Odd'
+	elif x == 1496: 
+ 		 return 'Even'
+	elif x == 1497: 
+ 		 return 'Odd'
+	elif x == 1498: 
+ 		 return 'Even'
+	elif x == 1499: 
+ 		 return 'Odd'
+	elif x == 1500: 
+ 		 return 'Even'
+	elif x == 1501: 
+ 		 return 'Odd'
+	elif x == 1502: 
+ 		 return 'Even'
+	elif x == 1503: 
+ 		 return 'Odd'
+	elif x == 1504: 
+ 		 return 'Even'
+	elif x == 1505: 
+ 		 return 'Odd'
+	elif x == 1506: 
+ 		 return 'Even'
+	elif x == 1507: 
+ 		 return 'Odd'
+	elif x == 1508: 
+ 		 return 'Even'
+	elif x == 1509: 
+ 		 return 'Odd'
+	elif x == 1510: 
+ 		 return 'Even'
+	elif x == 1511: 
+ 		 return 'Odd'
+	elif x == 1512: 
+ 		 return 'Even'
+	elif x == 1513: 
+ 		 return 'Odd'
+	elif x == 1514: 
+ 		 return 'Even'
+	elif x == 1515: 
+ 		 return 'Odd'
+	elif x == 1516: 
+ 		 return 'Even'
+	elif x == 1517: 
+ 		 return 'Odd'
+	elif x == 1518: 
+ 		 return 'Even'
+	elif x == 1519: 
+ 		 return 'Odd'
+	elif x == 1520: 
+ 		 return 'Even'
+	elif x == 1521: 
+ 		 return 'Odd'
+	elif x == 1522: 
+ 		 return 'Even'
+	elif x == 1523: 
+ 		 return 'Odd'
+	elif x == 1524: 
+ 		 return 'Even'
+	elif x == 1525: 
+ 		 return 'Odd'
+	elif x == 1526: 
+ 		 return 'Even'
+	elif x == 1527: 
+ 		 return 'Odd'
+	elif x == 1528: 
+ 		 return 'Even'
+	elif x == 1529: 
+ 		 return 'Odd'
+	elif x == 1530: 
+ 		 return 'Even'
+	elif x == 1531: 
+ 		 return 'Odd'
+	elif x == 1532: 
+ 		 return 'Even'
+	elif x == 1533: 
+ 		 return 'Odd'
+	elif x == 1534: 
+ 		 return 'Even'
+	elif x == 1535: 
+ 		 return 'Odd'
+	elif x == 1536: 
+ 		 return 'Even'
+	elif x == 1537: 
+ 		 return 'Odd'
+	elif x == 1538: 
+ 		 return 'Even'
+	elif x == 1539: 
+ 		 return 'Odd'
+	elif x == 1540: 
+ 		 return 'Even'
+	elif x == 1541: 
+ 		 return 'Odd'
+	elif x == 1542: 
+ 		 return 'Even'
+	elif x == 1543: 
+ 		 return 'Odd'
+	elif x == 1544: 
+ 		 return 'Even'
+	elif x == 1545: 
+ 		 return 'Odd'
+	elif x == 1546: 
+ 		 return 'Even'
+	elif x == 1547: 
+ 		 return 'Odd'
+	elif x == 1548: 
+ 		 return 'Even'
+	elif x == 1549: 
+ 		 return 'Odd'
+	elif x == 1550: 
+ 		 return 'Even'
+	elif x == 1551: 
+ 		 return 'Odd'
+	elif x == 1552: 
+ 		 return 'Even'
+	elif x == 1553: 
+ 		 return 'Odd'
+	elif x == 1554: 
+ 		 return 'Even'
+	elif x == 1555: 
+ 		 return 'Odd'
+	elif x == 1556: 
+ 		 return 'Even'
+	elif x == 1557: 
+ 		 return 'Odd'
+	elif x == 1558: 
+ 		 return 'Even'
+	elif x == 1559: 
+ 		 return 'Odd'
+	elif x == 1560: 
+ 		 return 'Even'
+	elif x == 1561: 
+ 		 return 'Odd'
+	elif x == 1562: 
+ 		 return 'Even'
+	elif x == 1563: 
+ 		 return 'Odd'
+	elif x == 1564: 
+ 		 return 'Even'
+	elif x == 1565: 
+ 		 return 'Odd'
+	elif x == 1566: 
+ 		 return 'Even'
+	elif x == 1567: 
+ 		 return 'Odd'
+	elif x == 1568: 
+ 		 return 'Even'
+	elif x == 1569: 
+ 		 return 'Odd'
+	elif x == 1570: 
+ 		 return 'Even'
+	elif x == 1571: 
+ 		 return 'Odd'
+	elif x == 1572: 
+ 		 return 'Even'
+	elif x == 1573: 
+ 		 return 'Odd'
+	elif x == 1574: 
+ 		 return 'Even'
+	elif x == 1575: 
+ 		 return 'Odd'
+	elif x == 1576: 
+ 		 return 'Even'
+	elif x == 1577: 
+ 		 return 'Odd'
+	elif x == 1578: 
+ 		 return 'Even'
+	elif x == 1579: 
+ 		 return 'Odd'
+	elif x == 1580: 
+ 		 return 'Even'
+	elif x == 1581: 
+ 		 return 'Odd'
+	elif x == 1582: 
+ 		 return 'Even'
+	elif x == 1583: 
+ 		 return 'Odd'
+	elif x == 1584: 
+ 		 return 'Even'
+	elif x == 1585: 
+ 		 return 'Odd'
+	elif x == 1586: 
+ 		 return 'Even'
+	elif x == 1587: 
+ 		 return 'Odd'
+	elif x == 1588: 
+ 		 return 'Even'
+	elif x == 1589: 
+ 		 return 'Odd'
+	elif x == 1590: 
+ 		 return 'Even'
+	elif x == 1591: 
+ 		 return 'Odd'
+	elif x == 1592: 
+ 		 return 'Even'
+	elif x == 1593: 
+ 		 return 'Odd'
+	elif x == 1594: 
+ 		 return 'Even'
+	elif x == 1595: 
+ 		 return 'Odd'
+	elif x == 1596: 
+ 		 return 'Even'
+	elif x == 1597: 
+ 		 return 'Odd'
+	elif x == 1598: 
+ 		 return 'Even'
+	elif x == 1599: 
+ 		 return 'Odd'
+	elif x == 1600: 
+ 		 return 'Even'
+	elif x == 1601: 
+ 		 return 'Odd'
+	elif x == 1602: 
+ 		 return 'Even'
+	elif x == 1603: 
+ 		 return 'Odd'
+	elif x == 1604: 
+ 		 return 'Even'
+	elif x == 1605: 
+ 		 return 'Odd'
+	elif x == 1606: 
+ 		 return 'Even'
+	elif x == 1607: 
+ 		 return 'Odd'
+	elif x == 1608: 
+ 		 return 'Even'
+	elif x == 1609: 
+ 		 return 'Odd'
+	elif x == 1610: 
+ 		 return 'Even'
+	elif x == 1611: 
+ 		 return 'Odd'
+	elif x == 1612: 
+ 		 return 'Even'
+	elif x == 1613: 
+ 		 return 'Odd'
+	elif x == 1614: 
+ 		 return 'Even'
+	elif x == 1615: 
+ 		 return 'Odd'
+	elif x == 1616: 
+ 		 return 'Even'
+	elif x == 1617: 
+ 		 return 'Odd'
+	elif x == 1618: 
+ 		 return 'Even'
+	elif x == 1619: 
+ 		 return 'Odd'
+	elif x == 1620: 
+ 		 return 'Even'
+	elif x == 1621: 
+ 		 return 'Odd'
+	elif x == 1622: 
+ 		 return 'Even'
+	elif x == 1623: 
+ 		 return 'Odd'
+	elif x == 1624: 
+ 		 return 'Even'
+	elif x == 1625: 
+ 		 return 'Odd'
+	elif x == 1626: 
+ 		 return 'Even'
+	elif x == 1627: 
+ 		 return 'Odd'
+	elif x == 1628: 
+ 		 return 'Even'
+	elif x == 1629: 
+ 		 return 'Odd'
+	elif x == 1630: 
+ 		 return 'Even'
+	elif x == 1631: 
+ 		 return 'Odd'
+	elif x == 1632: 
+ 		 return 'Even'
+	elif x == 1633: 
+ 		 return 'Odd'
+	elif x == 1634: 
+ 		 return 'Even'
+	elif x == 1635: 
+ 		 return 'Odd'
+	elif x == 1636: 
+ 		 return 'Even'
+	elif x == 1637: 
+ 		 return 'Odd'
+	elif x == 1638: 
+ 		 return 'Even'
+	elif x == 1639: 
+ 		 return 'Odd'
+	elif x == 1640: 
+ 		 return 'Even'
+	elif x == 1641: 
+ 		 return 'Odd'
+	elif x == 1642: 
+ 		 return 'Even'
+	elif x == 1643: 
+ 		 return 'Odd'
+	elif x == 1644: 
+ 		 return 'Even'
+	elif x == 1645: 
+ 		 return 'Odd'
+	elif x == 1646: 
+ 		 return 'Even'
+	elif x == 1647: 
+ 		 return 'Odd'
+	elif x == 1648: 
+ 		 return 'Even'
+	elif x == 1649: 
+ 		 return 'Odd'
+	elif x == 1650: 
+ 		 return 'Even'
+	elif x == 1651: 
+ 		 return 'Odd'
+	elif x == 1652: 
+ 		 return 'Even'
+	elif x == 1653: 
+ 		 return 'Odd'
+	elif x == 1654: 
+ 		 return 'Even'
+	elif x == 1655: 
+ 		 return 'Odd'
+	elif x == 1656: 
+ 		 return 'Even'
+	elif x == 1657: 
+ 		 return 'Odd'
+	elif x == 1658: 
+ 		 return 'Even'
+	elif x == 1659: 
+ 		 return 'Odd'
+	elif x == 1660: 
+ 		 return 'Even'
+	elif x == 1661: 
+ 		 return 'Odd'
+	elif x == 1662: 
+ 		 return 'Even'
+	elif x == 1663: 
+ 		 return 'Odd'
+	elif x == 1664: 
+ 		 return 'Even'
+	elif x == 1665: 
+ 		 return 'Odd'
+	elif x == 1666: 
+ 		 return 'Even'
+	elif x == 1667: 
+ 		 return 'Odd'
+	elif x == 1668: 
+ 		 return 'Even'
+	elif x == 1669: 
+ 		 return 'Odd'
+	elif x == 1670: 
+ 		 return 'Even'
+	elif x == 1671: 
+ 		 return 'Odd'
+	elif x == 1672: 
+ 		 return 'Even'
+	elif x == 1673: 
+ 		 return 'Odd'
+	elif x == 1674: 
+ 		 return 'Even'
+	elif x == 1675: 
+ 		 return 'Odd'
+	elif x == 1676: 
+ 		 return 'Even'
+	elif x == 1677: 
+ 		 return 'Odd'
+	elif x == 1678: 
+ 		 return 'Even'
+	elif x == 1679: 
+ 		 return 'Odd'
+	elif x == 1680: 
+ 		 return 'Even'
+	elif x == 1681: 
+ 		 return 'Odd'
+	elif x == 1682: 
+ 		 return 'Even'
+	elif x == 1683: 
+ 		 return 'Odd'
+	elif x == 1684: 
+ 		 return 'Even'
+	elif x == 1685: 
+ 		 return 'Odd'
+	elif x == 1686: 
+ 		 return 'Even'
+	elif x == 1687: 
+ 		 return 'Odd'
+	elif x == 1688: 
+ 		 return 'Even'
+	elif x == 1689: 
+ 		 return 'Odd'
+	elif x == 1690: 
+ 		 return 'Even'
+	elif x == 1691: 
+ 		 return 'Odd'
+	elif x == 1692: 
+ 		 return 'Even'
+	elif x == 1693: 
+ 		 return 'Odd'
+	elif x == 1694: 
+ 		 return 'Even'
+	elif x == 1695: 
+ 		 return 'Odd'
+	elif x == 1696: 
+ 		 return 'Even'
+	elif x == 1697: 
+ 		 return 'Odd'
+	elif x == 1698: 
+ 		 return 'Even'
+	elif x == 1699: 
+ 		 return 'Odd'
+	elif x == 1700: 
+ 		 return 'Even'
+	elif x == 1701: 
+ 		 return 'Odd'
+	elif x == 1702: 
+ 		 return 'Even'
+	elif x == 1703: 
+ 		 return 'Odd'
+	elif x == 1704: 
+ 		 return 'Even'
+	elif x == 1705: 
+ 		 return 'Odd'
+	elif x == 1706: 
+ 		 return 'Even'
+	elif x == 1707: 
+ 		 return 'Odd'
+	elif x == 1708: 
+ 		 return 'Even'
+	elif x == 1709: 
+ 		 return 'Odd'
+	elif x == 1710: 
+ 		 return 'Even'
+	elif x == 1711: 
+ 		 return 'Odd'
+	elif x == 1712: 
+ 		 return 'Even'
+	elif x == 1713: 
+ 		 return 'Odd'
+	elif x == 1714: 
+ 		 return 'Even'
+	elif x == 1715: 
+ 		 return 'Odd'
+	elif x == 1716: 
+ 		 return 'Even'
+	elif x == 1717: 
+ 		 return 'Odd'
+	elif x == 1718: 
+ 		 return 'Even'
+	elif x == 1719: 
+ 		 return 'Odd'
+	elif x == 1720: 
+ 		 return 'Even'
+	elif x == 1721: 
+ 		 return 'Odd'
+	elif x == 1722: 
+ 		 return 'Even'
+	elif x == 1723: 
+ 		 return 'Odd'
+	elif x == 1724: 
+ 		 return 'Even'
+	elif x == 1725: 
+ 		 return 'Odd'
+	elif x == 1726: 
+ 		 return 'Even'
+	elif x == 1727: 
+ 		 return 'Odd'
+	elif x == 1728: 
+ 		 return 'Even'
+	elif x == 1729: 
+ 		 return 'Odd'
+	elif x == 1730: 
+ 		 return 'Even'
+	elif x == 1731: 
+ 		 return 'Odd'
+	elif x == 1732: 
+ 		 return 'Even'
+	elif x == 1733: 
+ 		 return 'Odd'
+	elif x == 1734: 
+ 		 return 'Even'
+	elif x == 1735: 
+ 		 return 'Odd'
+	elif x == 1736: 
+ 		 return 'Even'
+	elif x == 1737: 
+ 		 return 'Odd'
+	elif x == 1738: 
+ 		 return 'Even'
+	elif x == 1739: 
+ 		 return 'Odd'
+	elif x == 1740: 
+ 		 return 'Even'
+	elif x == 1741: 
+ 		 return 'Odd'
+	elif x == 1742: 
+ 		 return 'Even'
+	elif x == 1743: 
+ 		 return 'Odd'
+	elif x == 1744: 
+ 		 return 'Even'
+	elif x == 1745: 
+ 		 return 'Odd'
+	elif x == 1746: 
+ 		 return 'Even'
+	elif x == 1747: 
+ 		 return 'Odd'
+	elif x == 1748: 
+ 		 return 'Even'
+	elif x == 1749: 
+ 		 return 'Odd'
+	elif x == 1750: 
+ 		 return 'Even'
+	elif x == 1751: 
+ 		 return 'Odd'
+	elif x == 1752: 
+ 		 return 'Even'
+	elif x == 1753: 
+ 		 return 'Odd'
+	elif x == 1754: 
+ 		 return 'Even'
+	elif x == 1755: 
+ 		 return 'Odd'
+	elif x == 1756: 
+ 		 return 'Even'
+	elif x == 1757: 
+ 		 return 'Odd'
+	elif x == 1758: 
+ 		 return 'Even'
+	elif x == 1759: 
+ 		 return 'Odd'
+	elif x == 1760: 
+ 		 return 'Even'
+	elif x == 1761: 
+ 		 return 'Odd'
+	elif x == 1762: 
+ 		 return 'Even'
+	elif x == 1763: 
+ 		 return 'Odd'
+	elif x == 1764: 
+ 		 return 'Even'
+	elif x == 1765: 
+ 		 return 'Odd'
+	elif x == 1766: 
+ 		 return 'Even'
+	elif x == 1767: 
+ 		 return 'Odd'
+	elif x == 1768: 
+ 		 return 'Even'
+	elif x == 1769: 
+ 		 return 'Odd'
+	elif x == 1770: 
+ 		 return 'Even'
+	elif x == 1771: 
+ 		 return 'Odd'
+	elif x == 1772: 
+ 		 return 'Even'
+	elif x == 1773: 
+ 		 return 'Odd'
+	elif x == 1774: 
+ 		 return 'Even'
+	elif x == 1775: 
+ 		 return 'Odd'
+	elif x == 1776: 
+ 		 return 'Even'
+	elif x == 1777: 
+ 		 return 'Odd'
+	elif x == 1778: 
+ 		 return 'Even'
+	elif x == 1779: 
+ 		 return 'Odd'
+	elif x == 1780: 
+ 		 return 'Even'
+	elif x == 1781: 
+ 		 return 'Odd'
+	elif x == 1782: 
+ 		 return 'Even'
+	elif x == 1783: 
+ 		 return 'Odd'
+	elif x == 1784: 
+ 		 return 'Even'
+	elif x == 1785: 
+ 		 return 'Odd'
+	elif x == 1786: 
+ 		 return 'Even'
+	elif x == 1787: 
+ 		 return 'Odd'
+	elif x == 1788: 
+ 		 return 'Even'
+	elif x == 1789: 
+ 		 return 'Odd'
+	elif x == 1790: 
+ 		 return 'Even'
+	elif x == 1791: 
+ 		 return 'Odd'
+	elif x == 1792: 
+ 		 return 'Even'
+	elif x == 1793: 
+ 		 return 'Odd'
+	elif x == 1794: 
+ 		 return 'Even'
+	elif x == 1795: 
+ 		 return 'Odd'
+	elif x == 1796: 
+ 		 return 'Even'
+	elif x == 1797: 
+ 		 return 'Odd'
+	elif x == 1798: 
+ 		 return 'Even'
+	elif x == 1799: 
+ 		 return 'Odd'
+	elif x == 1800: 
+ 		 return 'Even'
+	elif x == 1801: 
+ 		 return 'Odd'
+	elif x == 1802: 
+ 		 return 'Even'
+	elif x == 1803: 
+ 		 return 'Odd'
+	elif x == 1804: 
+ 		 return 'Even'
+	elif x == 1805: 
+ 		 return 'Odd'
+	elif x == 1806: 
+ 		 return 'Even'
+	elif x == 1807: 
+ 		 return 'Odd'
+	elif x == 1808: 
+ 		 return 'Even'
+	elif x == 1809: 
+ 		 return 'Odd'
+	elif x == 1810: 
+ 		 return 'Even'
+	elif x == 1811: 
+ 		 return 'Odd'
+	elif x == 1812: 
+ 		 return 'Even'
+	elif x == 1813: 
+ 		 return 'Odd'
+	elif x == 1814: 
+ 		 return 'Even'
+	elif x == 1815: 
+ 		 return 'Odd'
+	elif x == 1816: 
+ 		 return 'Even'
+	elif x == 1817: 
+ 		 return 'Odd'
+	elif x == 1818: 
+ 		 return 'Even'
+	elif x == 1819: 
+ 		 return 'Odd'
+	elif x == 1820: 
+ 		 return 'Even'
+	elif x == 1821: 
+ 		 return 'Odd'
+	elif x == 1822: 
+ 		 return 'Even'
+	elif x == 1823: 
+ 		 return 'Odd'
+	elif x == 1824: 
+ 		 return 'Even'
+	elif x == 1825: 
+ 		 return 'Odd'
+	elif x == 1826: 
+ 		 return 'Even'
+	elif x == 1827: 
+ 		 return 'Odd'
+	elif x == 1828: 
+ 		 return 'Even'
+	elif x == 1829: 
+ 		 return 'Odd'
+	elif x == 1830: 
+ 		 return 'Even'
+	elif x == 1831: 
+ 		 return 'Odd'
+	elif x == 1832: 
+ 		 return 'Even'
+	elif x == 1833: 
+ 		 return 'Odd'
+	elif x == 1834: 
+ 		 return 'Even'
+	elif x == 1835: 
+ 		 return 'Odd'
+	elif x == 1836: 
+ 		 return 'Even'
+	elif x == 1837: 
+ 		 return 'Odd'
+	elif x == 1838: 
+ 		 return 'Even'
+	elif x == 1839: 
+ 		 return 'Odd'
+	elif x == 1840: 
+ 		 return 'Even'
+	elif x == 1841: 
+ 		 return 'Odd'
+	elif x == 1842: 
+ 		 return 'Even'
+	elif x == 1843: 
+ 		 return 'Odd'
+	elif x == 1844: 
+ 		 return 'Even'
+	elif x == 1845: 
+ 		 return 'Odd'
+	elif x == 1846: 
+ 		 return 'Even'
+	elif x == 1847: 
+ 		 return 'Odd'
+	elif x == 1848: 
+ 		 return 'Even'
+	elif x == 1849: 
+ 		 return 'Odd'
+	elif x == 1850: 
+ 		 return 'Even'
+	elif x == 1851: 
+ 		 return 'Odd'
+	elif x == 1852: 
+ 		 return 'Even'
+	elif x == 1853: 
+ 		 return 'Odd'
+	elif x == 1854: 
+ 		 return 'Even'
+	elif x == 1855: 
+ 		 return 'Odd'
+	elif x == 1856: 
+ 		 return 'Even'
+	elif x == 1857: 
+ 		 return 'Odd'
+	elif x == 1858: 
+ 		 return 'Even'
+	elif x == 1859: 
+ 		 return 'Odd'
+	elif x == 1860: 
+ 		 return 'Even'
+	elif x == 1861: 
+ 		 return 'Odd'
+	elif x == 1862: 
+ 		 return 'Even'
+	elif x == 1863: 
+ 		 return 'Odd'
+	elif x == 1864: 
+ 		 return 'Even'
+	elif x == 1865: 
+ 		 return 'Odd'
+	elif x == 1866: 
+ 		 return 'Even'
+	elif x == 1867: 
+ 		 return 'Odd'
+	elif x == 1868: 
+ 		 return 'Even'
+	elif x == 1869: 
+ 		 return 'Odd'
+	elif x == 1870: 
+ 		 return 'Even'
+	elif x == 1871: 
+ 		 return 'Odd'
+	elif x == 1872: 
+ 		 return 'Even'
+	elif x == 1873: 
+ 		 return 'Odd'
+	elif x == 1874: 
+ 		 return 'Even'
+	elif x == 1875: 
+ 		 return 'Odd'
+	elif x == 1876: 
+ 		 return 'Even'
+	elif x == 1877: 
+ 		 return 'Odd'
+	elif x == 1878: 
+ 		 return 'Even'
+	elif x == 1879: 
+ 		 return 'Odd'
+	elif x == 1880: 
+ 		 return 'Even'
+	elif x == 1881: 
+ 		 return 'Odd'
+	elif x == 1882: 
+ 		 return 'Even'
+	elif x == 1883: 
+ 		 return 'Odd'
+	elif x == 1884: 
+ 		 return 'Even'
+	elif x == 1885: 
+ 		 return 'Odd'
+	elif x == 1886: 
+ 		 return 'Even'
+	elif x == 1887: 
+ 		 return 'Odd'
+	elif x == 1888: 
+ 		 return 'Even'
+	elif x == 1889: 
+ 		 return 'Odd'
+	elif x == 1890: 
+ 		 return 'Even'
+	elif x == 1891: 
+ 		 return 'Odd'
+	elif x == 1892: 
+ 		 return 'Even'
+	elif x == 1893: 
+ 		 return 'Odd'
+	elif x == 1894: 
+ 		 return 'Even'
+	elif x == 1895: 
+ 		 return 'Odd'
+	elif x == 1896: 
+ 		 return 'Even'
+	elif x == 1897: 
+ 		 return 'Odd'
+	elif x == 1898: 
+ 		 return 'Even'
+	elif x == 1899: 
+ 		 return 'Odd'
+	elif x == 1900: 
+ 		 return 'Even'
+	elif x == 1901: 
+ 		 return 'Odd'
+	elif x == 1902: 
+ 		 return 'Even'
+	elif x == 1903: 
+ 		 return 'Odd'
+	elif x == 1904: 
+ 		 return 'Even'
+	elif x == 1905: 
+ 		 return 'Odd'
+	elif x == 1906: 
+ 		 return 'Even'
+	elif x == 1907: 
+ 		 return 'Odd'
+	elif x == 1908: 
+ 		 return 'Even'
+	elif x == 1909: 
+ 		 return 'Odd'
+	elif x == 1910: 
+ 		 return 'Even'
+	elif x == 1911: 
+ 		 return 'Odd'
+	elif x == 1912: 
+ 		 return 'Even'
+	elif x == 1913: 
+ 		 return 'Odd'
+	elif x == 1914: 
+ 		 return 'Even'
+	elif x == 1915: 
+ 		 return 'Odd'
+	elif x == 1916: 
+ 		 return 'Even'
+	elif x == 1917: 
+ 		 return 'Odd'
+	elif x == 1918: 
+ 		 return 'Even'
+	elif x == 1919: 
+ 		 return 'Odd'
+	elif x == 1920: 
+ 		 return 'Even'
+	elif x == 1921: 
+ 		 return 'Odd'
+	elif x == 1922: 
+ 		 return 'Even'
+	elif x == 1923: 
+ 		 return 'Odd'
+	elif x == 1924: 
+ 		 return 'Even'
+	elif x == 1925: 
+ 		 return 'Odd'
+	elif x == 1926: 
+ 		 return 'Even'
+	elif x == 1927: 
+ 		 return 'Odd'
+	elif x == 1928: 
+ 		 return 'Even'
+	elif x == 1929: 
+ 		 return 'Odd'
+	elif x == 1930: 
+ 		 return 'Even'
+	elif x == 1931: 
+ 		 return 'Odd'
+	elif x == 1932: 
+ 		 return 'Even'
+	elif x == 1933: 
+ 		 return 'Odd'
+	elif x == 1934: 
+ 		 return 'Even'
+	elif x == 1935: 
+ 		 return 'Odd'
+	elif x == 1936: 
+ 		 return 'Even'
+	elif x == 1937: 
+ 		 return 'Odd'
+	elif x == 1938: 
+ 		 return 'Even'
+	elif x == 1939: 
+ 		 return 'Odd'
+	elif x == 1940: 
+ 		 return 'Even'
+	elif x == 1941: 
+ 		 return 'Odd'
+	elif x == 1942: 
+ 		 return 'Even'
+	elif x == 1943: 
+ 		 return 'Odd'
+	elif x == 1944: 
+ 		 return 'Even'
+	elif x == 1945: 
+ 		 return 'Odd'
+	elif x == 1946: 
+ 		 return 'Even'
+	elif x == 1947: 
+ 		 return 'Odd'
+	elif x == 1948: 
+ 		 return 'Even'
+	elif x == 1949: 
+ 		 return 'Odd'
+	elif x == 1950: 
+ 		 return 'Even'
+	elif x == 1951: 
+ 		 return 'Odd'
+	elif x == 1952: 
+ 		 return 'Even'
+	elif x == 1953: 
+ 		 return 'Odd'
+	elif x == 1954: 
+ 		 return 'Even'
+	elif x == 1955: 
+ 		 return 'Odd'
+	elif x == 1956: 
+ 		 return 'Even'
+	elif x == 1957: 
+ 		 return 'Odd'
+	elif x == 1958: 
+ 		 return 'Even'
+	elif x == 1959: 
+ 		 return 'Odd'
+	elif x == 1960: 
+ 		 return 'Even'
+	elif x == 1961: 
+ 		 return 'Odd'
+	elif x == 1962: 
+ 		 return 'Even'
+	elif x == 1963: 
+ 		 return 'Odd'
+	elif x == 1964: 
+ 		 return 'Even'
+	elif x == 1965: 
+ 		 return 'Odd'
+	elif x == 1966: 
+ 		 return 'Even'
+	elif x == 1967: 
+ 		 return 'Odd'
+	elif x == 1968: 
+ 		 return 'Even'
+	elif x == 1969: 
+ 		 return 'Odd'
+	elif x == 1970: 
+ 		 return 'Even'
+	elif x == 1971: 
+ 		 return 'Odd'
+	elif x == 1972: 
+ 		 return 'Even'
+	elif x == 1973: 
+ 		 return 'Odd'
+	elif x == 1974: 
+ 		 return 'Even'
+	elif x == 1975: 
+ 		 return 'Odd'
+	elif x == 1976: 
+ 		 return 'Even'
+	elif x == 1977: 
+ 		 return 'Odd'
+	elif x == 1978: 
+ 		 return 'Even'
+	elif x == 1979: 
+ 		 return 'Odd'
+	elif x == 1980: 
+ 		 return 'Even'
+	elif x == 1981: 
+ 		 return 'Odd'
+	elif x == 1982: 
+ 		 return 'Even'
+	elif x == 1983: 
+ 		 return 'Odd'
+	elif x == 1984: 
+ 		 return 'Even'
+	elif x == 1985: 
+ 		 return 'Odd'
+	elif x == 1986: 
+ 		 return 'Even'
+	elif x == 1987: 
+ 		 return 'Odd'
+	elif x == 1988: 
+ 		 return 'Even'
+	elif x == 1989: 
+ 		 return 'Odd'
+	elif x == 1990: 
+ 		 return 'Even'
+	elif x == 1991: 
+ 		 return 'Odd'
+	elif x == 1992: 
+ 		 return 'Even'
+	elif x == 1993: 
+ 		 return 'Odd'
+	elif x == 1994: 
+ 		 return 'Even'
+	elif x == 1995: 
+ 		 return 'Odd'
+	elif x == 1996: 
+ 		 return 'Even'
+	elif x == 1997: 
+ 		 return 'Odd'
+	elif x == 1998: 
+ 		 return 'Even'
+	elif x == 1999: 
+ 		 return 'Odd'
 	else: 
  		 return 'Currently Not Supported' 
 print(EvenOdd(x))
